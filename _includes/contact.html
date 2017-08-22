@@ -28,8 +28,10 @@
         {% endif %}
       {% endif %}
 
-      <a href="https://gist.github.com/PanosSakkos/c1bdd195454e6fc1751a" target="_blank">PGP Key</a>
-      <p/>
+      {% if site.pgp %}
+        <a href="{{ site.pgp }}" target="_blank">PGP Key</a>
+        <p/>
+      {% endif %}
 
     </div>
   </div>

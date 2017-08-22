@@ -1,7 +1,10 @@
 
 # Site settings
 
-url: "https://panossakkos.github.io"
+url: "https://le4ker.me"
+
+environment: prod
+
 baseurl: ""
 force-https: True
 
@@ -33,7 +36,7 @@ author: "Panos Sakkos"
 lang: "en"
 title: "{ Panos Sakkos }"
 short-title: "{ Panos }"
-favicon: "/img/black-lock.png"
+favicon: "/img/key.png"
 description: "Blog of Panos Sakkos, writing on security, privacy and open source. Opinions expressed here are mine."
 keywords: "panos, sakkos, security, privacy, open source, encryption, software, PwnMail, UoA, di, CERN, MDCN, Microsoft, jekyll"
 
@@ -41,7 +44,7 @@ keywords: "panos, sakkos, security, privacy, open source, encryption, software, 
 # Intro layout #
 ################
 
-black-favicon: "/img/lock.png"
+black-favicon: "/img/key.png"
 background-img: ""
 me-img: "/img/me.jpg"
 
@@ -121,6 +124,8 @@ timeline-img: "/img/career/default.jpg"
 
 email: "panos.sakkos@gmail.com"
 
+pgp: "https://gist.github.com/le4ker/c1bdd195454e6fc1751a"
+
 ################
 # Author Blurb #
 ################
@@ -138,11 +143,11 @@ author_blurb_image: "/img/me.jpg"
 
 social:
   - title: "github"
-    url: "https://github.com/PanosSakkos"
+    url: "https://github.com/le4ker"
   - title: "linkedin"
     url: "https://linkedin.com/in/PanosSakkos"
   - title: "twitter"
-    url: "https://twitter.com/thepanoss"
+    url: "https://twitter.com/le4ker"
   - title: "bitcoin"
     url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
