@@ -97,8 +97,8 @@ disqus-shortname: "panossakkos"
 
 events:
   - image: "/img/career/microsoft.png"
-    date: "September 2014 - Today"
-    description: "Software Engineer @ Microsoft Development Center Norway, working @ Office 365 backend services, focusing on Security Engineering"
+    date: "September 2014 - September 2017"
+    description: "Software Engineer @ Microsoft Development Center Norway, working @ Office 365 backend services, focused on Security Engineering"
   - image: "/img/career/microsoft.png"
     date: "June 2013 - September 2013"
     description: "Software Engineering Intern @ Microsoft Development Center Norway, worked @ <a href=\"https://www.businessinsider.com/microsoft-finally-rolls-out-delve-2014-9\">Delve</a>'s backend, the Office Graph"
@@ -134,7 +134,7 @@ pgp: "https://gist.github.com/le4ker/c1bdd195454e6fc1751a"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Panos is on a mission to protect what you ❤️ by delivering secure products that respect the privacy of their users. In the past he did research in Computer Security and Machine Learning and currently he works as a Software Engineer for Office 365, focusing on Security Engineering."
+author_blurb: "Panos is on a mission to protect what you ❤️ by delivering secure products that respect the privacy of their users. In the past he did research in Computer Security, Machine Learning and he was a Software Engineer for Office 365, focused on Security Engineering."
 author_blurb_image: "/img/me.jpg"
 
 ##################
