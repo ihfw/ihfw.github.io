@@ -49,8 +49,8 @@ The PKCS7 padding is simple, the last *N* bytes are padded with the value *N*.
 For example the padding of *"Hello, world"*, for a block size of 16 bytes will be four 4s appended at its end:
 
 <pre><code data-trim class="bash">
-#  H    e    l    l    o    ,         w 
-0x48 0x65 0x6c 0x6c 0x6f 0x2c 0x20 0x77 
+#  H    e    l    l    o    ,         w
+0x48 0x65 0x6c 0x6c 0x6f 0x2c 0x20 0x77
    o    r    l    d    4    4    4    4
 0x6f 0x72 0x6c 0x64 0x04 0x04 0x04 0x04
 </code></pre>
@@ -210,6 +210,6 @@ puts recovered_plaintext
 
 Here is the full source code:
 
-<script src="https://gist.github.com/PanosSakkos/02c225e4ebe6c596a7519ebead84091c.js"></script>
+<script src="https://gist.github.com/le4ker/02c225e4ebe6c596a7519ebead84091c.js"></script>
 
 Happy decrypting!
