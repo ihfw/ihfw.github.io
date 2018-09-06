@@ -96,8 +96,11 @@ disqus-shortname: "panossakkos"
 ###############
 
 events:
+  - image: "/img/career/blocktopus.png"
+    date: "August 2018 - Today"
+    description: "Founder @ <a href=\"https://blocktopus.io\">Blocktopus</a>, a Plug and Play KYC for ICOs and a One-Stop KYC for Token Buyers"
   - image: "/img/career/etherize.png"
-    date: "November 2017 - today"
+    date: "November 2017 - August 2018"
     description: "Co-Founder @ <a href=\"https://etherize.io\">Etherize</a>, driving the Etherize platform, from a strategic and technical point of view"
   - image: "/img/career/microsoft.png"
     date: "September 2014 - September 2017"
@@ -137,7 +140,11 @@ pgp: "https://gist.github.com/le4ker/c1bdd195454e6fc1751a"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Panos is a Computer Scientist with scientific publications in top conferences and journals, three patent applications, open source contributions on privacy preserving products and a proven track record of delivering secure, reliable and fast cloud services. Previously he worked as a Linux kernel developer at the CERN CERT team, did Data Mining research at the University of Athens and innovated on Microsoft’s Office 365 cloud services. Currently he is on a mission to accelerate products that utilize the Ethereum Blockchain."
+author_blurb: "Panos is a Computer Scientist with scientific publications in top conferences and journals, three patent applications, open-source contributions on privacy preserving products and a proven track record of delivering secure, reliable and fast cloud services.
+
+In the past, he worked as a Linux kernel developer at the CERN CERT team, did Data Mining research at the University of Athens and innovated on Microsoft’s Office 365 cloud services.
+
+Currently he is on a mission to accelerate Distributed Ledger Technologies."
 author_blurb_image: "/img/me.jpg"
 
 ##################
@@ -151,8 +158,6 @@ social:
     url: "https://linkedin.com/in/PanosSakkos"
   - title: "twitter"
     url: "https://twitter.com/le4ker"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
     url: "/feed.xml"
 
